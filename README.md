@@ -1,8 +1,6 @@
 # Hi 👋 , I'm Kate Murray
 
-<a href='https://www.linkedin.com/in/kate-murray-343138151/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/katemurraay/katemurraay/main/image/linkedin_logo.svg" height='100px'/></a>
-<br />
-<br />
+
 ## About:
 - 👩‍🎓 &nbsp; M.Sc. in Computing Science Graduate;
 - 💻 &nbsp; Enjoy working on a diverse projects building Android apps, iOS apps, web apps, ML and DL models.
