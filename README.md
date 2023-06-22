@@ -2,11 +2,11 @@
 
 
 ## About:
-- 👩‍🎓 &nbsp; M.Sc. in Computing Science Graduate;
-- 💻 &nbsp; Enjoy working on a diverse projects building Android apps, iOS apps, web apps, ML and DL models.
+- 👩‍🎓 &nbsp; M.Sc. in Computing Science Graduate.
+- 💻 &nbsp; Enjoy working on diverse projects building Android apps, iOS apps, ML and DL models, and web apps.
 - 📄 &nbsp; My recent [Research Work](https://github.com/katemurraay/tsa_crt) was based on the performance of DL, ML and ensembles for forecasting cryptos. 
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/katemurraay?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kate-murray-343138151/)
 
 ### Languages and Tools:
