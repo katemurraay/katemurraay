@@ -2,7 +2,7 @@
 
 
 ## About:
-- 💻 &nbsp; Passionate about working on diverse projects in financial contexted using Java, Python, C++, ML and DL models.
+- 💻 &nbsp; Passionate about working on diverse projects in financial contexts using Java, Python, C++, ML and DL models.
 - 👩‍🎓 &nbsp; M.Sc. in Computing Science Graduate.
 - 📄 &nbsp; My [Research Work](https://github.com/katemurraay/tsa_crt) was based on the performance of DL, ML and ensembles for forecasting cryptos. 
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/katemurraay?tab=repositories)
